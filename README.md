@@ -5,8 +5,10 @@ A collection of manual testing project documents, including:
 - Requirements and User Stories  
 - Test Cases  
 - Bug Reports  
-- RTM  
+- RTM 
 - Summary Report
+
+
 This project was part of the AXOS Academy Bootcamp. 
 Although it was completed as a team, I have included only my contributions:
 - Test Cases for the User Module – My Info
