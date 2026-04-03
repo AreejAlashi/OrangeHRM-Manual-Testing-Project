@@ -9,7 +9,7 @@ A collection of manual testing project documents, including:
 - RTM 
 - Summary Report
 
-⚠️ **Important:** To download any of these files, click on the file name, then press **View raw** in the top-right corner of the preview page.
+⚠️ **Important:** To download any of these files, click on the file name, then press **View raw**  of the preview page.
 
 This project was part of the AXOS Academy Bootcamp. 
 Although it was completed as a team, I have included only my contributions:
